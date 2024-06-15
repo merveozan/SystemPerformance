@@ -24,10 +24,10 @@ You need to set up the following variables in code:
 ### Obtaining the `CHAT_ID`
 1. Send a message to your bot.
 2. Use any Telegram API development tool to retrieve the `chat_id` from your message.
-   ![Chat ID Retrieval](https://github.com/merveozan/SystemPerformance/blob/main/chat_id_retrieval "Chat ID Retrieval")
+   ![Chat ID Retrieval](https://github.com/merveozan/SystemPerformance/blob/main/chat_id_retrieval.png "Chat ID Retrieval")
 
 ### Running the Application
 Run the application from the command line:
 ```bash
 dotnet run
-"# SystemPerformance" 
+
